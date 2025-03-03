@@ -20,9 +20,16 @@ public class SignUpForm {
 
     private String password;
 
+    private String confirmPassword;
+
     private LocalDate birthday;
 
     private String phone;
+
+
+
+
+
 
 
 }
